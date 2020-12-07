@@ -268,7 +268,7 @@ namespace DiscographyTracker
         {
             selectedTrack = dgv.Rows[dgv.CurrentCell.RowIndex].Cells[0].Value.ToString();
             string url = DataManager.GetTrackURL(selectedArtist, selectedAlbum, selectedTrack);
-            urlLabel.Text = url == "NOPE" ? "NOPE" : "https://youtu.be/"+url;
+            urlLabel.Text = url == "NOPE" || url == "null" ? "NOPE" : "https://youtu.be/"+url;
         }
 
         private string GetAlbumIdByName(string name)
