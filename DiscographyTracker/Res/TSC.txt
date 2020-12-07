@@ -1,0 +1,46 @@
+[albums]
+tsc0;The Score;- Non-album singles -;1970-1-1
+tsc2;The Score;Unstoppable;2016-09-23
+tsc3;The Score;Myths & Legends;2017-04-14
+tsc4;The Score;Stripped;2017-08-11
+tsc5;The Score;Atlas;2017-10-13
+tsc6;The Score;Pressure;2019-02-01
+tsc7;The Score;Stay;2019-08-09
+tsc8;The Score;Carry On;2020-08-28
+[tracks]
+Don't Wanna Wake Up;3:55;tsc0;ypHQO4UE1aU
+White Iverson;4:15;tsc0;3nIOIVAIB-s
+On And On;3:35;tsc0;I5wHdUT2a_s
+Unstoppable;3:10;tsc2;Xydf351l-gw
+Legend;3:09;tsc3;jecQcgbyetw
+Revolution;3:51;tsc5;b99r48grKGI
+Miracle;3:26;tsc3;XW4vacvZSmA
+Higher;3:34;tsc3;XclXvB1Gmnc
+Never Going Back;3:17;tsc5;vqNjxIZ6AnE
+Glory;2:45;tsc8;i3ucSSVJTL4
+Stronger;3:19;tsc8;cNld-AHw-Wg
+The Fear;3:04;tsc6;K5U7b_E14cE
+Stay;3:04;tsc7;yRz6LBiyMWQ
+In My Bones;2:50;tsc7;2CFBHThW7Dk
+Hunger;2:04;tsc7;VAN2_S0Y5l0
+Rush;2:55;tsc7;qq9MrrjrZmo
+Run Like a Rebel;2:46;tsc7;cLHRzCYgQ10
+Can't Stop Me Now;1:59;tsc7;ZRRt8EyYNvg
+Best Part;3:00;tsc8;GXDNMinUPXc
+The Champion;2:41;tsc8;O5AMl3t817o
+All of Me;2:43;tsc8;WHowaIzJYKw
+Carry On;2:50;tsc8;sPHDxqVi5qA
+Can You Hear Me Now;3:14;tsc8;8RDy31N0gdY
+Golden;3:07;tsc8;4qgYWWRpnD8
+Fire;3:52;tsc8;F4dctjz3tUk
+Running All Night;3:24;tsc8;A6yjM0iZ3-A
+Gallows;2:24;tsc8;3wZllhP3FZo
+Breakout;2:21;tsc8;PE75F4ynC_U
+Comeback;3:43;tsc8;e0AUz9AdxNA
+Human;3:17;tsc8;m7uSvfXrF2A
+Born for this;3:58;tsc6;aJ5IzGBnWAc
+Money Run Low;3:06;tsc2;facc6KUJYcM
+The Heat;3:11;tsc2;InAaCKqUmjE
+Where you are;3:46;tsc5;852Qfy01F0Q
+Tightrope;3:53;tsc5;dptMwh2xJcU
+Believe;3:48;tsc5;_yWFkqPV7dY
